@@ -47,3 +47,7 @@ a {
   color: #007bff;
   text-decoration: none;
 }
+
+footer li{
+    margin-top: 10px;
+}
